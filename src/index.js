@@ -1,1 +1,3 @@
-alert('Loaded');
+import { getMessage } from "./message";
+
+alert(getMessage());
